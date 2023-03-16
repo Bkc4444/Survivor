@@ -7,3 +7,5 @@ You can break these walls but it takes turns to break the walls so tread lightly
 You can survive by collecting soda and food to restore your life points. 
 Once you reach 0 the game is over. 
 Try and beat your high score.
+
+![image](https://user-images.githubusercontent.com/97191117/225774493-dbfcbf54-90fd-4c46-8a82-2d5eb1602d29.png)
